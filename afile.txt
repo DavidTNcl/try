@@ -1,3 +1,4 @@
+Another change
 This is a file with lines in it.
 But not now. Now it has two lines.
 
